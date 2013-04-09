@@ -1,0 +1,6 @@
+DoES-3DPrinter-Settings
+=======================
+
+Settings for the DoES Liverpool 3D Printers, the Makerbot Cupcake and the RepRap Prussia Mendel along with a number of test files suitable for slicing for use in calibration.
+
+Historic Cupcake settings are in the `cupcake` folder. `.ini` files in the `reprap` folder are config files for Slic3r ready for import.
